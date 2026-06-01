@@ -279,7 +279,7 @@ Thus, the program was implemented and executed successfully, and the required ou
    Print "Special Symbol".
 ### Step 8:   
   Stop
-# Program:
+# Program: 
 ```
 #include <stdio.h>
 
